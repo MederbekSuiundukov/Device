@@ -26,3 +26,4 @@ Checkout Summary:
 iPhone 13 - 2 units
 Total Price: $1598
 Thank you for your purchase!
+![alt text]()
