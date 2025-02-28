@@ -1,3 +1,9 @@
+
+![UML](![Image](https://github.com/user-attachments/assets/44d68a92-4507-45ee-86d5-e68fcad440db)
+
+
+
+
 ### Sample test Input/Output
 Menu:
 1. Show Devices
@@ -26,4 +32,6 @@ Checkout Summary:
 iPhone 13 - 2 units
 Total Price: $1598
 Thank you for your purchase!
-![Image alt](https://github.com/MederbekSuiundukov/Device/raw/master/C:%5CUsers%5CUser%5CPictures%5CScreenshots/image.png)
+
+
+
